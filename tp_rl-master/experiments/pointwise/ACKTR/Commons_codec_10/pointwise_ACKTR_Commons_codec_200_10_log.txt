@@ -1,0 +1,11 @@
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+02/09/2023 09:01:04,pointwise,ACKTR,pointwise_ACKTR_0_66,200,6400,919d3ec4adbaf64cb6b7e9f40f82432b2159d510,9351.888,977.161,10,27,0,0,0.7336219336219336,0,0
+02/09/2023 09:01:37,pointwise,ACKTR,pointwise_ACKTR_0_67,200,31076,bdf8e5c049a7f6bbe706c6d35bff55a79bba1e65,31019.736,1343.783,10,9,0,0,0.6140350877192983,0,0
+02/09/2023 09:01:50,pointwise,ACKTR,pointwise_ACKTR_0_68,200,7505,00530c91c80b6b926beb5b6f9c11127403407543,10497.382,1147.3890000000001,10,30,0,0,0.789846641988366,0,0
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+02/09/2023 09:04:13,pointwise,ACKTR,pointwise_ACKTR_0_66,200,6400,919d3ec4adbaf64cb6b7e9f40f82432b2159d510,9409.926,967.051,10,27,0,0,0.6834054834054835,0,0
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+02/09/2023 09:05:25,pointwise,ACKTR,pointwise_ACKTR_0_66,200,6400,919d3ec4adbaf64cb6b7e9f40f82432b2159d510,9678.134,1122.604,10,27,0,0,0.7284271284271284,0,0
+02/09/2023 09:05:58,pointwise,ACKTR,pointwise_ACKTR_0_67,200,31076,bdf8e5c049a7f6bbe706c6d35bff55a79bba1e65,31203.841,968.328,10,9,0,0,0.9228070175438596,0,0
+02/09/2023 09:06:12,pointwise,ACKTR,pointwise_ACKTR_0_68,200,7505,00530c91c80b6b926beb5b6f9c11127403407543,11196.29,1147.509,10,30,0,0,0.8938127974616605,0,0
+02/09/2023 09:06:50,pointwise,ACKTR,pointwise_ACKTR_0_84,200,35441,1e2151c26bccea33125da79e7c616c2c55edc855,35977.81,1301.0819999999999,10,8,0,0,0.9509803921568627,0,0

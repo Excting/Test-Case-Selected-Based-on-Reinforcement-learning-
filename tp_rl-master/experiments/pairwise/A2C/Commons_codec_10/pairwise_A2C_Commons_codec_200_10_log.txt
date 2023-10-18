@@ -1,0 +1,4 @@
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+03/09/2023 19:40:48,pairwise,A2C,pairwise_A2C_0_66,200,6400,919d3ec4adbaf64cb6b7e9f40f82432b2159d510,7378.607,588.318,10,27,0,0,0.6600288600288601,0,0
+03/09/2023 19:41:21,pairwise,A2C,pairwise_A2C_0_67,200,31076,bdf8e5c049a7f6bbe706c6d35bff55a79bba1e65,31826.677,524.296,10,9,0,0,0.9333333333333333,0,0

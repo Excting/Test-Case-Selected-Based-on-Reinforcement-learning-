@@ -1,0 +1,7 @@
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+timestamp,mode,algo,model_name,episodes,steps,cycle_id,training_time,testing_time,winsize,test_cases,failed_test_cases, apfd, nrpa, random_apfd, optimal_apfd
+03/09/2023 19:35:06,pointwise,A2C,pointwise_A2C_0_0,200,355858,4,287943.338,536.638,10,50,27,0.6877777777777778,0.8877344205008736,0.5314814814814814,0.73
+03/09/2023 19:36:03,pointwise,A2C,pointwise_A2C_0_3,200,66438,5,55549.356,855.004,10,561,239,0.4971658499839647,0.7449288031690613,0.49916467157422123,0.7869875222816399
